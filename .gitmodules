@@ -1,6 +1,6 @@
 [submodule "etc-asterisk"]
 	path = etc-asterisk
-	url = git@github.com:stuntbanana/etc-asterisk.git
+	url = https://github.com/stuntbanana/etc-asterisk.git
 [submodule "asterisk"]
 	path = asterisk
 	url = https://github.com/PhenomHTPC/asterisk.git
